@@ -1,2 +1,3 @@
+This is the changes to check Stash command in git
 This is sample file 1 om develop branch
 Testing merging concepts
