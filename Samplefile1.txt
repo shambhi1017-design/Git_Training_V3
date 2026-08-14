@@ -1,3 +1,7 @@
 This is sample file 1 om develop branch
 
+<<<<<<< HEAD
 This is git reset testing 2
+=======
+This is git revert testing 2
+>>>>>>> 296c1d3 (This is the commit to test revert)
