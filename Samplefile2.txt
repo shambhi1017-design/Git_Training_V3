@@ -1,1 +1,3 @@
 This is sample file 2 on develop branch
+
+This is git reset testing 1
